@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg ="daedong_agv" type="daedong_agv" name="daedong_agv" output="screen"/>
+
+</launch>
